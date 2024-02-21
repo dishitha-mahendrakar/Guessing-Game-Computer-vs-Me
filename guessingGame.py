@@ -24,8 +24,6 @@ def computerGuess(lowval, highval, randnum, count=0):
     else:
         # number not found
         return -1
-
-
 # end of function
 
 # Generate a random number between 1 and 100
